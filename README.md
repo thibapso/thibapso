@@ -1,6 +1,6 @@
 ## Prazer!! Eu sou o Thiago 👋
 
-- 🎂 15y.o (17/09/06)
+- 🎂 15y.o 17/09
 - 😄 Pronomes: Ele/Dele;
 - ⚡ Cursando o Ensino Médio Técnico na Fiap School; 
 - 🌱 Atualmente, aprendendo JavaScript;
