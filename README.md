@@ -1,4 +1,4 @@
-## Prazer!! Eu sou o Thiago 👋
+## Prazer!! Eu sou o Thiago 👋🙋‍♂️
 
 - 😄 Pronomes: Ele/Dele;
 - 🎂 15y.o 17/09;
