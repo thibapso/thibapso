@@ -1,9 +1,9 @@
 ## Prazer!! Eu sou o Thiago 👋🙋‍♂️
 
-- 😄 Pronomes: Ele/Dele;
-- 🎂 15y.o 17/09;
-- ⚡ Cursando o Ensino Médio Técnico de Informática; 
-- 🌱 Atualmente, aprendendo JavaScript;
+- 😄 Pronomes: Ele/Dele
+- 🎂 15y.o 17/09
+- ⚡ Cursando o Ensino Médio Técnico de Informática
+- 🌱 Atualmente, aprendendo JavaScript
 - 📫 Contate-me através do email: thibapso@gmail.com
 
 ## <div align="center">
@@ -26,10 +26,9 @@
   ##
 
 <div> 
- <a href="https://www.instagram.com/th_bapsoares/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/th_bapsoares"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:thibapso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/th_bapsoares/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/thibapso"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thibapso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Thiago-BSSoares/Thiago-BSSoares/blob/output/github-contribution-grid-snake.svg)
  
