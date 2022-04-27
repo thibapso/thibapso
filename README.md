@@ -1,7 +1,6 @@
 ## Prazer!! Eu sou o Thiago 👋🙋‍♂️
 
 - 😄 Pronomes: Ele/Dele
-- 🎂 15y.o 17/09
 - ⚡ Cursando o Ensino Médio Técnico de Informática
 - 🌱 Atualmente, aprendendo JavaScript
 - 📫 Contate-me através do email: thibapso@gmail.com
