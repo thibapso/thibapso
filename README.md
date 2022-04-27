@@ -1,6 +1,6 @@
-## Prazer!! Eu sou o Thiago 👋🙋‍♂️
+## Prazer!! Eu sou o Thiago 🖐🏼👦🏽
 
-- 👦 Pronomes: Ele/Dele
+- 👦🏽 Pronomes: Ele/Dele
 - 🏫 Cursando o Ensino Médio Técnico de Informática
 - 💻 Atualmente, aprendendo JavaScript
 - 📩 Contate-me através do email: thibapso@gmail.com
