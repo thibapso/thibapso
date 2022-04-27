@@ -1,9 +1,9 @@
 ## Prazer!! Eu sou o Thiago 👋🙋‍♂️
 
-- 😄 Pronomes: Ele/Dele
-- ⚡ Cursando o Ensino Médio Técnico de Informática
-- 🌱 Atualmente, aprendendo JavaScript
-- 📫 Contate-me através do email: thibapso@gmail.com
+- 👦 Pronomes: Ele/Dele
+- 🏫 Cursando o Ensino Médio Técnico de Informática
+- 💻 Atualmente, aprendendo JavaScript
+- 📩 Contate-me através do email: thibapso@gmail.com
 
 ## <div align="center">
   <a href="https://github.com/thiagobapsoares">
@@ -19,7 +19,6 @@
   <img align="center" alt="Thiago-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Thiago-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Thiago-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
-  
   <img align="right" alt="Thiago-pic" height="155" width="155" style="border-radius:65px;" src="https://cdn.discordapp.com/attachments/737435414859612180/957329314616057927/b4020950-ecd5-4487-bff1-9509bcb06d79.png">
 </div>    
           
