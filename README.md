@@ -20,8 +20,6 @@
   <img align="center" alt="Thiago-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Thiago-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
 
-  ##
-
   <img align="right" alt="Thiago-pic" height="155" width="155" style="border-radius:65px;" src="https://cdn.discordapp.com/attachments/737435414859612180/957329314616057927/b4020950-ecd5-4487-bff1-9509bcb06d79.png">
 </div>    
           
