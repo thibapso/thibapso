@@ -29,6 +29,6 @@
   <a href = "https://twitter.com/thibapso"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:thibapso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Thiago-BSSoares/Thiago-BSSoares/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thiagobapsoares/thiagobapsoares/blob/output/github-contribution-grid-snake.svg)
  
 ## </div>
