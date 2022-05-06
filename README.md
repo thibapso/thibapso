@@ -17,7 +17,6 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Thiago-pic" height="155" width="155" style="border-radius:65px;" src="https://cdn.discordapp.com/attachments/737435414859612180/957329314616057927/b4020950-ecd5-4487-bff1-9509bcb06d79.png">
 </div>    
           
   ##
