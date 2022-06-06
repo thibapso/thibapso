@@ -2,8 +2,7 @@
 
 - 👦🏻 Pronomes: Ele/Dele;
 - 🏫 Cursando o Ensino Médio Técnico de Informática;
-- 💻 Atualmente, aprendendo JavaScript;
-- 📩 Contate-me através do email: thibapso@gmail.com
+- 💻 Atualmente, aprendendo JavaScript.
 
 ## <div align="center">
   <a href="https://github.com/thiagobapsoares">
@@ -22,5 +21,7 @@
   ##
 
 <div>
+
   ![Snake animation](https://github.com/thiagobapsoares/thiagobapsoares/blob/output/github-contribution-grid-snake.svg)
+
 </div>
