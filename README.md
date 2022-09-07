@@ -1,7 +1,6 @@
 ## Prazer!! Eu sou o Thiago Soares 👋🏻👦🏻
 
 - 👦🏻 Pronomes: Ele/Dele;
-- 🏫 Cursando o Ensino Médio Técnico de Informática;
 - 💻 Atualmente, aprendendo JavaScript.
 
 ## <div align="center">
