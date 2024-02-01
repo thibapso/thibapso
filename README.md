@@ -5,7 +5,6 @@
 
 <!-- Stats -->
 <div align="center">
-  <a href="thibapso.github.io/ThiagoLinks/">
   <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=thibapso&show_icons=true&count_private=true&title_color=477AF1&icon_color=477AF1&text_color=ffffff&bg_color=070504" alt="Thiago Soares' github stats" />
   <img width="35%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibapso&layout=compact&langs_count=7&title_color=477AF1&text_color=ffffff&bg_color=070504" alt="Thiago Soares' most used languages"/>
 </div>
