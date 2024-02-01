@@ -30,7 +30,7 @@
 <!-- personal information -->
 <h2>Informações Pessoais</h2>
 
-<h3> 👋 Oi, eu sou o Thiago! Um estudante de São Paulo - SP. </h3>
+<h3> 👋 Oi, eu sou o Thiago! Um estudante de São Paulo - SP </h3>
 
 <p>
   
