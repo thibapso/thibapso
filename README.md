@@ -33,10 +33,10 @@
 
 <p>
   
-- 📚 Estou atualmente aprofundando meu conhecimento em React JS e explorando diferentes tecnologias.
+- 📚 Atualmente, aprofundando meu conhecimento em React JS e explorando diferentes tecnologias.
 
 - 🚀 Estou em busca da minha primeira oportunidade de trabalho.
 
-- 🎨 Eu tenho 17 anos, possuo um conhecimento intermediário em inglês. Gosto de jogar videogames, resolver quebra-cabeças e estou aprendendo a jogar xadrez.
+- 🎨 Eu tenho 17 anos, possuo um conhecimento intermediário em inglês, gosto de jogar videogames, resolver quebra-cabeças e estou aprendendo a jogar xadrez.
   
 </p>
