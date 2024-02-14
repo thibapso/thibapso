@@ -1,7 +1,7 @@
 <!-- Start -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=477AF1&textBg=false&fontAlign=45&animation=fadeIn&fontColor=FFFFFF" alt="wave effect" />
 
-<h1> Olá, sou o Thiago Soares! 🧑🏻💻</h1> 
+<h1> Olá, sou o Thiago Soares! 👨🏻‍💻</h1> 
 
 <!-- Stats -->
 <div align="center">
