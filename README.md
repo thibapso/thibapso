@@ -1,7 +1,7 @@
 <!-- Start -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=477AF1&textBg=false&fontAlign=45&animation=fadeIn&fontColor=FFFFFF" alt="wave effect" />
 
-<h1> Olá, sou o Thiago Soares! 👨🏻‍💻</h1> 
+<h1> Olá, sou o Thiago Soares! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /></h1> 
 
 <!-- Stats -->
 <div align="center">
@@ -29,16 +29,16 @@
 <!-- personal information -->
 <h2>Informações Pessoais</h2>
 
-<h3> 👋 Oi, eu sou o Thiago! Um estudante de São Paulo/SP </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Light Skin Tone" width="25" height="25" /> Oi, eu sou o Thiago! Um estudante de São Paulo/SP </h3>
 
 <p>
   
-- 📚 Atualmente, aprofundando meu conhecimento em React JS e explorando diferentes tecnologias.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="25" height="25" /> Atualmente, aprofundando meu conhecimento em React JS e explorando diferentes tecnologias.
 
-- 🚀 Estou em busca da minha primeira oportunidade de trabalho.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Estou em busca da minha primeira oportunidade de trabalho.
 
-- 💬 Eu tenho 17 anos e possuo um conhecimento intermediário em inglês.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Eu tenho 17 anos e possuo um conhecimento intermediário em inglês.
 
-- 🎨 Estou aprendendo a jogar xadrez e gosto de jogar videogames. Além disso, adoro resolver quebra-cabeças e visualizar mapas.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Estou aprendendo a jogar xadrez e gosto de jogar videogames. Além disso, adoro resolver quebra-cabeças e visualizar mapas.
   
 </p>
