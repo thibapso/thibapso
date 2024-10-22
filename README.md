@@ -14,7 +14,7 @@
 <!-- Technologies -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=figma,vscode,html,css,js,ts,bootstrap,react" alt="thiago technologies"> 
+    <img height="45em" src="https://skillicons.dev/icons?i=figma,vscode,html,css,sass,js,bootstrap,react" alt="thiago technologies"> 
   </a>
 </p>
 
